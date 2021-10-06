@@ -17,3 +17,8 @@ Above is the summary of data in our new dataframe. Unsuprisingly, the urban area
 Our chart shows us that across the months of January through April, no city type had a spike in profits or demand when compared to the others. The main factor behind higher fare values is population count and since Pyber cannot magically increase rural area's population, we nust develop incentives to increase engagement in these less populated areas.
 
 ## Recommendations 
+Starting with the rural areas, it will be important to have a more targeted plan to keep and increase to rider base. This begins with communicating with the few drivers that are in the area and hearing from them what the most common destinations and type of customer they usually get. By doing this we can help them promote their services more effectively.
+
+For urban areas, the prior recommendation is obviously not feasible with the shear amount of drivers they have. In order to increase revenue here, it is important tailor the fares based when there is highest demand during the week. For example, there will almost always be more customers during evenings (getting home from work, going to dinner, etc.) and even more so during weekends. 
+
+Suburban areas are trickiest areas. In many urban areas, much of the population won't own a car and therefore drive up demand, however this won't always be the case in suburbs. The important part here is to focus on convenience and making Pyber more appealing than taking your own car. One option could be to offer rewards for recurrent ridership (discount, gift cards) in order make people feel like they are getting more out of Pyber's services than just doing things themselves. 
